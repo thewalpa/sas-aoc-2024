@@ -12,7 +12,6 @@ run;
 data part1(keep=part1);
     set reports end=last;
     length prev_level level all_inc all_dec part1 3;
-    retain prev_level;
     all_inc=1;
     all_dec=1;
     do i=1 by 1 while (scan(levels, i, " ") ne "");
