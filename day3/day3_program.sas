@@ -1,5 +1,5 @@
 *day 3;
-filename input "/srv/nfs/compute/home/pathew/sas-aoc-2024/day3/day3_input.txt";
+filename input "./sas-aoc-2024/day3/day3_input.txt";
 
 *part 1+2;
 data program;

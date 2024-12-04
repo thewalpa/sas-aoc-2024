@@ -1,5 +1,5 @@
 *day 2;
-filename input "/srv/nfs/compute/home/pathew/sas-aoc-2024/day2/day2_input.txt";
+filename input "./sas-aoc-2024/day2/day2_input.txt";
 
 *part 1;
 data reports;

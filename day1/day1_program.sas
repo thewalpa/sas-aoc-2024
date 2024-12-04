@@ -1,6 +1,6 @@
 *day 1;
 
-filename input "/srv/nfs/compute/home/pathew/sas-aoc-2024/day1/day1_input.txt";
+filename input "./sas-aoc-2024/day1/day1_input.txt";
 
 *part 1;
 data left(keep=left) right(keep=right);
